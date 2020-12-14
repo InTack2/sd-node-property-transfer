@@ -1,0 +1,9 @@
+{
+    "metadata_format_version": "1",
+    "name": "NodePropertyTransfer",
+    "version": "0.0.2",
+    "author": "Tack2",
+    "email": "takumi236@gmail.com",
+    "min_designer_version": "2019.2",
+    "platform": "any"
+}
