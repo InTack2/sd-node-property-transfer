@@ -3,7 +3,7 @@
 A tool for transferring node properties.
 
 ## Installation method
-- Install from Plugin Manager
+- Install from Plugin Manager  
 https://docs.substance3d.com/sddoc/plugin-manager-180192053.html
 
 - Select pluginInfo.json from Browse
@@ -19,12 +19,12 @@ Select the Node you want to copy the Property to and click "Get Node Parameter"
 ノードのプロパティを転送するためのツールです。
 
 ## インストール方法
-・Plugin Managerからインストール
+・Plugin Managerからインストール  
 https://docs.substance3d.com/sddoc/plugin-manager-180192053.html
 - BrowseからpluginInfo.jsonを選択する
-・メニューにTackToolsが表示される
-・TackToolsのNodePropertyTransferをクリック
-・PropertyをコピーしたいNodeを選択し、「GetNodeParameter」をクリック
+- メニューにTackToolsが表示される
+- TackToolsのNodePropertyTransferをクリック
+- PropertyをコピーしたいNodeを選択し、「GetNodeParameter」をクリック
 
-・転送したいノードを選択して「TransferParamter」をクリック
+- 転送したいノードを選択して「TransferParamter」をクリック
 
